@@ -1,5 +1,5 @@
 # Killer-Whale-Survival-Modelling
-Modelling of Killer Whale survival under varying conditions
+Modelling of Killer Whale survival under varying conditions.
 Results of Scenarios include
  - Rich and Stable Environment (Mean - high and Standard Deviation - low)
  - Poor and Stable Environment (Mean and Standard Deviation -  low)
